@@ -1,0 +1,1263 @@
+
+Cyborg: Tools List----
+__________________
+
+Tools  Information Gathering
+----------------------------
+
+NETWORK INVESTIGATION:-
+ 
+
+1. Analyzing Live Host
+
+alive6
+angry IP scanner
+arp-scan
+automater
+autoscan network
+arping
+cdpsnarf
+detect-new-ip6
+detect-sniffer6
+dig
+dmitry
+dnmap-client
+dnmap-server
+fping
+hping3
+inverse_lookup6
+miranda
+ncat
+netdiscover
+nmap
+passive_discovery6
+thcping6
+wol-e
+xprobe2
+zenmap
+ 
+
+2.IDS/IPS
+
+fragrouter
+fragroute
+ftest
+lbd
+snort
+ua-tester
+wafw00f
+ 
+
+3.Network Scanners
+
+angry IP scanner
+autoscan network
+dmitry
+dnmap-client
+dnmap-server
+ghost phisher
+multimac
+netdiscover
+knock-scan
+nmap
+zenmap
+ 
+
+4.Open Source Intelligence
+
+casefile
+creepy
+dmitry
+goofile
+jigsaw
+maltego
+metagoofil
+theharvester
+twofi
+urlcrazy
+ 
+
+5.OS fingerprinting
+
+angry IP scanner
+autoscan network
+dnmap-client
+dnmap-server
+miranda
+nmap
+zenmap
+ 
+
+6.Route Evolution
+
+0trace
+dnmap-client
+dnmap-server
+intrace
+netmask
+trace6
+ 
+
+7.Traffic Monitor
+
+0trace
+cdpsnarf
+ftest
+intrace
+irpas-ass
+irpas-cdp
+p0f
+tcpflow
+wireshark
+ 
+
+PROXY:-
+-----
+
+tor
+squid3
+vidalia
+ 
+
+VPN ANALYSIS:-
+-------------
+
+ikecrack
+ike-scan
+psk-crack
+ 
+
+WEB INVENTORY :-
+--------------
+
+cookie-cadger
+enum4linux
+firewalk
+iwebaudit
+nmap_parser
+nmap-scrape
+parsero
+pyfoca
+rid_enum
+ 
+
+1. HTTrack
+
+browse mirrored websites
+httrack
+webhttrack
+ 
+
+2. Dns Evolution
+
+dig
+dnsdict6
+dnsenum
+dnsmap
+dnsrecon
+dnsrevenum6
+dnstracer
+dnswalk
+fierce
+maltego
+nmap
+recon-ng
+urlcrazy
+zenmap
+ 
+
+3. Service Fingerprinting
+
+autoscan-network
+dnmap-client
+dnmap-server
+implementation6
+implementation6d
+ncat
+nmap
+sslscan
+sslyze
+tlssled
+zenmap
+ 
+
+4. Smb Evolution
+
+acccheck
+nbtscan
+nmap
+smbspider
+zenmap
+ 
+
+5. Smtp Evolution
+
+nmap
+smtp-user-enum
+swaks
+zenmap
+ 
+
+6.Snmp Evolution
+
+braa
+cisco-auditing-tool
+cisco-torch
+copy-router-config
+nmap
+onesixtyone
+snmpcheck
+zenmap
+ 
+
+7.SSL Breakdown
+
+sslcaudit
+ssldump
+sslh
+sslscan
+sslsniff
+sslstrip
+sslyze
+stunnel4
+tlssled
+ 
+
+8.Telephony Evolution
+
+ace
+
+Yacy Toolkit :-
+-------------
+
+Yacy Kill
+Yacy Reconfigure
+Yacy Start
+Yacy Stop
+Yacy Update
+ 
+
+Tools   Reverse Engineering
+ 
+
+1.Debuggers
+bless hex editor
+dissy
+edb-debugger
+gdb
+valgrind
+ 
+
+2.Disassembly
+jad
+rabin2
+radiff2
+rasm2
+recstudio
+recstudio-cli
+ 
+
+3.Exploit Development Tools
+edb-debugger
+nasm shell
+pattern create
+pattern offset
+ 
+
+4.RE Tools
+apktool
+clang
+clang++
+dex2jar
+flasm
+jar2dex
+javasnoop
+radare2
+rafind2
+ragg2
+ragg2-cc
+rahash2
+rarun2
+rax2
+ 
+
+Tools   Wireless  Toolkit
+ 
+
+Bluetooth:-
+btscanner
+fang
+haraldscan
+spooftooph
+ 
+
+1.Bluetooth Honeypot
+BLUEPOT
+ 
+
+2.Blue-Package
+bluelog
+bluemaho
+blueranger
+bluesnarfer
+ 
+
+3.Bluez-Package
+bluez-simple-agent
+bluez-simple-service
+bluez-test-adapter
+bluez-test-audio
+bluez-test-device
+bluez-test-discovery
+bluez-test-input
+bluez-test-manager
+bluez-test-network
+bluez-test-serial
+bluez-test-service
+bluez-test-telephony
+ 
+
+MISC TOOLS:-
+zbassocflood
+zbconvert
+zbdsniff
+zbdump
+zbgoodfind
+zbreplay
+zbstumbler
+ 
+
+RADIO/RADAR MONITORING:-
+gnuradio-companion
+gqrx
+modes_gui
+modes_rx
+rtl_adsb
+rtl_fm
+rtl_sdr
+rtlsdr_scanner
+rtl_tcp
+rtl_test
+ 
+
+WiFi:-
+asleap
+bully
+cowpatty
+crackle
+crunch
+eapmd5pass
+fern-wifi-cracker
+genkeys
+genpmk
+gerix-wifi-cracker
+ghost phisher
+giskismet
+kismet
+linset
+mdk3
+multimon-ng
+pyrit
+reaver
+wifidns
+wifi-honey
+wifiphisher
+wifitap
+wifite
+ 
+
+1.Aircrack Suite
+airbase-ng
+aircrack-ng
+airdecap-ng
+airdecloak-ng
+airdriver-ng
+aireplay-ng
+airmon-ng
+airodump-ng
+airolib-ng
+airserv-ng
+airtun-ng
+ 
+
+Tools  Mobile  Security
+ 
+
+Development Tools:-
+fastboot
+heimdall
+haraldscan
+heimdall-frontend
+ 
+
+Device Forensics:-
+aflogical open source edition
+android bruteforce encryption
+exiftool
+iphone backup analyzer (gui)
+scalpel
+zanti2
+ 
+
+1.Sleuth Kit
+icat-sleuthkit
+ils-sleuthkit
+mactime-sleuthkit
+ 
+
+Penetration Testing:-
+burpsuite
+ettercap
+nmap
+ssl strip
+w3af (console)
+w3af (gui)
+zaproxy
+zenmap
+ 
+
+Reverse Engineering:-
+antilvl
+apktool
+baksmali
+dex2jar
+jar2dex
+jasmin
+jd-gui
+radare2
+smali
+ 
+
+1.Androguard
+androapkinfo
+androaxml
+androdd
+androdiff
+androgexf
+androlyze
+andromercury
+androrisk
+androxgmml
+apkviewer
+ 
+
+Wireless Analyzers:-
+chaosreader
+dnschef
+dsniff
+tcpdump
+wireshark
+wireshark (as root)
+.
+
+Tools  Vulnerability Assessment
+NETWORK:-
+ 
+
+1.Cisco Engine
+cisco-auditing-tool
+cisco-global-exploiter
+cisco-ocs
+cisco-torch
+copy-router-config
+yersinia
+ 
+
+2.Local
+rips
+ 
+
+3.Openvas
+openvas add user
+openvas check setup
+openvas feed update
+openvas initital setup
+openvas start
+openvas web interface
+ 
+
+WEB APPLICATION:-
+ 
+
+1.Database Reckoning
+bbqsql
+dbpwaudit
+hexorbase
+jsql
+mdb-array
+mdb-export
+mdb-header
+mdb-hexdump
+mdb-parsecsv
+mdb-prop
+mdb-schema
+mdb-sql
+mdb-tables
+mdb-ver
+oscanner
+sqlmap
+sqlninja
+sqlsus
+tnscmd10g
+ 
+
+2. Fuzzers
+bed
+fuzz_ip6
+ohrwurm
+powerfuzzer
+sfuzz
+siparmyknife
+spike-generic-chunked
+spike-generic-listen_tcp
+spike-generic-send_tcp
+spike-generic-send_udp
+webscarab
+webslayer
+websploit
+wfuzz
+xsser
+zaproxy
+ 
+
+3.Open Source Analyzer
+casefile
+maltego
+ 
+
+4.Web Vulnerability Scanners
+burpsuite
+cadaver
+davtest
+deblaze
+fimap
+fuckshitup
+golismero
+grabber
+heartbleed
+htexploit
+inxi
+joomscan
+jsql
+lynis
+mwebfp
+nikto
+padbuster
+proxystrike
+skipfish
+sqlmap
+uniscan-gui
+w3af-console
+w3af-gui
+wapiti
+webscarab
+webshag-gui
+websploit
+whatweb
+wpscan
+xsser
+zaproxy
+ 
+
+Tools  Privelege Escalation
+ 
+
+PASSWORD ATTACKS:-
+ 
+
+1.Password Analysis:-
+ 
+
+a.Hash Brief
+curl
+hash-identifier
+net
+openchangeclient
+rpcclient
+smbclient
+smbget
+sqsh
+winexe
+wmic
+ 
+
+2.Password Cracking:-
+ 
+
+a.GPU Weapon
+oclhashcat-lite
+oclhashcat-plus
+pyrit
+ 
+
+b.Offline Raid
+cachedump
+cap2hccap
+chntpw
+cmospwd
+crunch
+dictstat
+fang
+fcrackzip
+hash-identifier
+john
+johnny
+lsadump
+maskgen
+maskprocessor
+oclhashcat-lite
+oclhashcat-plus
+ophcrack
+ophcrack-cli
+pdfcrack
+policygen
+pyrit
+rainbowcrack
+rcracki_mt
+rsmangler
+rulegen
+samdump2
+sipcrack
+sipdump
+statsgen
+statsprocessor
+sucrack
+truecrack
+ 
+
+c.Online Raid
+acccheck
+burpsuite
+cewl
+cisco-auditing-tool
+dbpwaduit
+fab
+fang
+findmyhash
+hydra
+hydra-gtk
+keimpx
+medusa
+ncrack
+onesixtyone
+patator
+phraseandrecher
+thc-pptp-bruter
+webscarab
+zaproxy
+ 
+
+SNIFFING:-
+ 
+
+1.Network Sniffers
+darkstat
+dnschef
+dnsspoof
+dsniff
+ettercap-graphical
+hexinject
+mailsnarf
+msgsnarf
+netsniff-ng
+ngrep
+passive_discovery6
+responder
+sslsniff
+tcpflow
+urlsnarf
+webmitm
+webspy
+wireshark
+ 
+
+2.Web Sniffers
+burpsuite
+dnsspoof
+driftnet
+ferret
+hamster
+mitmproxy
+urlsnarf
+webmitm
+webscarab
+webspy
+zaproxy
+ 
+
+SPOOFING:-
+dnschef
+ettercap-graphical
+evilgrade
+fake_advertise6
+fake_dhcps6
+fake_dns6d
+fake_dnsupdate6
+fake_mipv6
+fake_mld26
+fake_mld6
+fake_mldrouter6
+fake_router26
+fake_router6
+fake_solicitate6
+fiked
+macchanger
+netcmd
+nfspy
+nfspysh
+parasite6
+randicmp6
+rebind
+redir6
+responder
+scapy
+sniffjoke
+sslsplit
+sslstrip
+tcpreplay
+wifi-honey
+yersinia
+ 
+
+
+ 
+
+Tools  RFID/NFC Tools
+ 
+
+NETWORK:-
+ 
+
+1.NFC Tools
+mfcuk
+mfoc
+mfterm
+mifare-classic-format
+nfc-list
+nfc-mfclassic
+ 
+
+2.RFIDIOT-ACG
+brute force hitag2
+bruteforce mifare
+calculate jcop mifare keys
+continuous select tag
+copy iso15693b tag
+epassport read write clone
+format mifare 1k value blocks
+identify hf tag type
+identify lf tag type
+jcop info
+jcop mifare read write
+jcop set atr historical bytes
+read acg reader eeprom
+read lf tag
+read mifare
+read tag
+read write clone unique (em4x02)
+reset q5 tag
+select tag
+set fdx-b ld
+test acg lahf
+ 
+
+3.RFIDIOT-FROSCH
+read write clone unique (em4x02)
+reset hitag2 tag
+set fdx-b ld
+test frosch reader
+ 
+
+4.RFIDIOT-PCSC
+bruteforce mifare
+calculate jcop mifare keys
+continuous select tag
+epassport read write clone
+identify hf tag type
+jcop info
+jcop mifare read write
+jcop set atr historical bytes
+read mifare
+read tag
+select tag
+ 
+
+Tools  VOIP  Analysis
+ 
+
+1.Voice and Surveillance
+msgsnarf
+ 
+
+2.VOIP Information Gathering
+ace
+enumiax
+ 
+
+3.VOIP Stress Testing
+iaxflood
+inviteflood
+ 
+
+3.VOIP Tools
+iaxflood
+inviteflood
+ohrwurm
+protos-sip
+read write clone unique (em4x02)
+rtpbreak
+rtpflood
+rtpinsertsound
+rtpmixsound
+sctpscan
+siparmyknife
+sipp
+sipsak
+svcrack
+svcrash
+svmap
+svreport
+svwar
+voiphopper
+ 
+
+Tools  Reporting
+ 
+
+1.Evidence Handling
+casefile
+magictree
+maltego
+metagoofil
+pipal
+truecrypt
+zim desktop wiki
+ 
+
+2.Radio Seize
+cutycapt
+recordmydesktop
+ 
+
+3.Software Documentation
+dradis
+keepnote
+Tools  Exploitation Toolkit
+BeEF FRAMEWORK:-
+BeEF
+ 
+
+DATABASE:-
+bbqsql
+pompem
+searchsploit
+scanner-inurlbr
+sqlsus
+ufonet
+ 
+
+NETWORK :-
+ 
+
+1.Inguma
+inguma-cli
+ 
+
+2.Armitage
+armitage
+ 
+
+3.Cisco Violation
+cisco-auditing-tool
+cisco-global-exploiter
+cisco-ocs
+cisco-torch
+copy-router-config
+yersinia
+ 
+
+4.Metasploit Framework
+metasploit community / pro
+metasploit diagnostic logs
+metasploit diagnostic shell
+metasploit framework
+metasploit update exploit
+ 
+
+5.Network Exploitation
+backdoor factory
+crackle
+exploit6
+linux exploit suggester
+shellnoob
+termineter
+unix-jboss-autopwn
+win-jboss-autopwn
+zarp
+ 
+
+6.Veil-Evasion Framework
+Veil-Evasion Framework
+ 
+
+SOCIAL ENGINEERING:-
+ 
+
+1.Honeypots
+honeyd
+ 
+
+2.SET
+setoolkit
+ 
+
+WEB OFFENSE:-
+ 
+
+1.Cms Credentials
+blindelephant
+cms-explorer
+plecost
+wpscan
+ 
+
+2.Web Appliance Proxies
+burpsuite
+paros
+proxystrike
+webscarab
+zaproxy
+ 
+
+3.Web Crawlers
+apache-users
+burpsuite
+cutycapt
+dirb
+dirbuster
+parsero
+recon-ng
+webscarab
+webslayer
+zaproxy
+ 
+
+Tools  Maintaining  Access
+ 
+
+1.OS Backstairs
+cymothoa
+dbd
+intersect
+powersploit
+sbd
+u3-pwn
+u3-tool
+ 
+
+2.Tunneling Utensil
+cryptcat
+dbd
+dns2tcpc
+dns2tcpd
+iodine
+miredo
+ncat
+proxychains
+proxytunnels
+ptunnel
+pwnat
+sbd
+socat
+sslh
+stunnel4
+udptunnel
+ 
+
+3.Web Backstairs
+webacoo
+weevely
+ 
+
+Tools  Stress  Testing
+ 
+
+DOS:-
+denial6
+dhcpig
+dos-new-ip6
+flood_advertise6
+flood_dhcpc6
+flood_mld26
+flood_mld6
+flood_mldrouter6
+flood_router26
+flood_router6
+flood_solicitate6
+fragmentation6
+inundator
+kill_router6
+macof
+rsmurf6
+siege
+slowhttptest
+smurf6
+t50
+thc-ssl-dos
+ 
+
+FUZZER:-
+ 
+
+1.Fuzzing Tools
+backfuzz
+bed
+fuzz_ip6
+ohrwurm
+powerfuzzer
+sfuzz
+siparmyknife
+spike-generic-chunked
+spike-generic-listen_tcp
+spike-generic-send_tcp
+spike-generic-send_udp
+tcpjunk
+ 
+
+2.Web Application Fuzzer
+burpsuit
+doona
+dotdotpwn
+powerfuzzer
+thc-ssl-dos
+webscarab
+websploit
+wfuzz
+xsser
+zaproxy
+ 
+
+WLAN STRESS TESTING:-
+mdk3
+reaver
+ 
+
+Tools   FORENSICS
+ 
+
+ACQUISITION:-
+affcat
+affconvert
+blkls
+dc3dd
+dcfldd
+dd_rescue
+ewfacquire
+ewfacquirestream
+ewfexport
+ewfinfo
+ewfverify
+fsstat
+guymager
+img_cat
+img_stat
+mmls
+mmstat
+tsk_comparedir
+tsk_gettimes
+tsk_loaddb
+tsk_recover
+ 
+
+CRYPTOGRAPHY:-
+Luks-Ops
+Truecrack
+Truecrypt
+Tcpcryptd
+ 
+
+DATA RECOVERY:-
+ 
+
+1.Carving Tools
+binwalk
+bulk_extractor
+foremost
+jls
+magicrescue
+ofs2rva-pev
+pasco
+pedis-pev
+pepack-pev
+pescan-pev
+photorec
+readpe-pev
+recoverjpeg
+rifiuti
+rifiuti2
+rva2ofs-pev
+safecopy
+scalpel
+scrounge-ntfs
+testdisk
+ 
+
+2.Password Forensics
+chntpw
+md5deep
+rahash2
+ 
+
+3.PDF Forensics
+pdf-parser
+pdf2dsc
+pdf2ps
+pdf2txt
+pdfcrack
+pdfdetach
+pdffonts
+pdfid
+pdfimages
+pdfinfo
+pdfseparate
+pdftocairo
+pdftohtml
+pdftoppm
+pdftops
+pdftotext
+pdfunite
+peepdf
+ 
+
+4.Ram Forensics
+volafox
+volatility
+ 
+
+DIGITAL ANTI-FORENSICS:-
+chkrootkit
+ 
+
+DIGITAL FORENSICS:-
+autopsy
+binwalk
+bulk_extractor
+chkrootkit
+dc3dd
+dcfldd
+extundelete
+foremost
+fsstat
+galleta
+tsk_comparedir
+tsk_gettimes
+tsk_loaddb
+tsk_recover
+ 
+
+FORENSICS EVALUATION TOOLS:-
+affcompare
+affcopy
+affcrypto
+affdiskprint
+affinfo
+affsign
+affstats
+affuse
+affverify
+affxml
+autopsy
+binwalk
+blkcalc
+blkcat
+blkstat
+bulk_extractor
+cuckoo
+ffind
+fls
+foremost
+galleta
+hfind
+icat-sleuthkit
+ifind
+ils-sleuthkit
+istat
+jcat
+mactime-sleuthkit
+missidentify
+mmcat
+pdgmail
+readpst
+reglookup
+reglookup-timeline
+reglookup-recover
+SIGFIND
+sorter
+srch-strings
+tsk_recover
+vinetto
+ 
+
+FORENSICS SUITE:-
+autopsy
+capstone
+dff
+dff-gui
+dumpzilla
+ 
+
+NETWORK INVESTIGATION:-
+p0f
+xplico
+ 
+
+SECURE WIPE:-
+sdmem
+sfill
+srm
+sswap
+ 
+
+STEGNANOGRAPHY:-
+ 
+
+1.Detect
+snowdrop
+stegbreak
+stegcompare
+stegdetect
+vinetto
+ 
+
+2.Hide
+stegdeimage
+steghide
+outguess
+ 
+
+Tools  Hardware  Hacking
+sakis3g
+1.Arduino Tools
+arduino
+ 
+
+2.Teensytools
+kautilya
+teensy
+ 
+
+Tools  Malware  Analysis
+ 
+
+ANTI MALWARE:-
+chkdupexe
+chkrootkit
+ 
+
+MALWARE LAB:-
+cuckoo
+damm
+linux malware detect
+viper-terminal
+viper-web-interface
+yara malware research
